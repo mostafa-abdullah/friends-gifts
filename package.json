@@ -1,0 +1,17 @@
+{
+  "name": "friends-gifts",
+  "version": "1.0.0",
+  "description": "An application for managing birthday gifts",
+  "main": "app.js",
+  "author": "Mostafa Hassan",
+  "dependencies": {
+    "bcrypt": "^2.0.1",
+    "connect-mongo": "^2.0.1",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.1.5",
+    "nodemon": "^1.17.5"
+  }
+}
